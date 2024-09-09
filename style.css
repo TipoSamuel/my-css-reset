@@ -1,0 +1,22 @@
+/* variables */
+:root {}
+
+
+/* CSS reset */
+* {
+  margin: unset;
+  padding: unset;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
+
+p, li, figcaption {
+  text-wrap: pretty;
+  max-width: 65ch;
+}
+
+
+/* main styles */
